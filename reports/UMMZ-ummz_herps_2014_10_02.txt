@@ -1,0 +1,172 @@
+Report for Institution Code UMMZ, Resource ummz_herps
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1314
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 4
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 100
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 4
+	Date: 2014-09-02 ; Times: 6
+	Date: 2014-09-03 ; Times: 5
+	Date: 2014-09-04 ; Times: 7
+	Date: 2014-09-06 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-08 ; Times: 7
+	Date: 2014-09-09 ; Times: 3
+	Date: 2014-09-10 ; Times: 7
+	Date: 2014-09-11 ; Times: 6
+	Date: 2014-09-15 ; Times: 14
+	Date: 2014-09-16 ; Times: 4
+	Date: 2014-09-19 ; Times: 3
+	Date: 2014-09-20 ; Times: 3
+	Date: 2014-09-22 ; Times: 24
+	Date: 2014-09-23 ; Times: 10
+	Date: 2014-09-24 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Deirochelys Louisiana" ; Times: 2
+	Query: "Plectrohyla hartwegi country:"Guatemala" institutioncode:UMMZ" ; Times: 1
+	Query: "stateprovince:"New York" specificepithet:anthracinus (Plestiodon OR Eumeces)" ; Times: 1
+	Query: "specificepithet:vermiculaticeps genus:Rhadinaea" ; Times: 15
+	Query: "institutioncode:UMMZ AND (NOT Aves) year >= 1700 year <= 1860" ; Times: 1
+	Query: "Necturus illinois" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Crocodilurus (Skeleton)" ; Times: 4
+	Query: "Chamaeleo fischeri" ; Times: 1
+	Query: ""masticophis flagellum" (Alabama)" ; Times: 1
+	Query: "specificepithet:sargenti genus:Rhadinaea" ; Times: 1
+	Query: "deirochelys reticularia (Louisiana)" ; Times: 1
+	Query: "odontophrynus" ; Times: 1
+	Query: ""Sternotherus odoratus" (Alabama) AND (NOT Marshall)" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Terrapene stateprovince:"Connecticut" year <= 2014" ; Times: 2
+	Query: "country:"Costa Rica" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "python regius" ; Times: 2
+	Query: "amphiuma skull" ; Times: 2
+	Query: "231042" ; Times: 1
+	Query: "223937" ; Times: 1
+	Query: "oxyuranus" ; Times: 1
+	Query: "Andrias" ; Times: 2
+	Query: "ZFMK" ; Times: 1
+	Query: "Crotaphytus reticulatus" ; Times: 1
+	Query: "heterodon indiana" ; Times: 3
+	Query: "Trowbridge institutioncode:UMMZ" ; Times: 3
+	Query: "heterodon michigan Menominee" ; Times: 1
+	Query: "Colobosaura modesta" ; Times: 1
+	Query: "231191" ; Times: 1
+	Query: "Macroclemys" ; Times: 2
+	Query: "Agalychnis spurrelli" ; Times: 1
+	Query: "plethodon asupak" ; Times: 1
+	Query: "deirochelys reticularia (Louisiana )" ; Times: 1
+	Query: "Plectrohyla hartwegi institutioncode:UMMZ" ; Times: 1
+	Query: "country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 2
+	Query: "236424" ; Times: 1
+	Query: "Anura AND Steere institutioncode:UMMZ" ; Times: 1
+	Query: "Tupinambis (Skeleton)" ; Times: 1
+	Query: "institutioncode:UMMZ (Trowbridge)" ; Times: 1
+	Query: "plethodon welleri year >= 1900 year <= 1935" ; Times: 2
+	Query: "country:"Guatemala" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: ""Ophisaurus attenuatus" (Alabama)" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "Gallotia gallotia (Skeleton)" ; Times: 1
+	Query: "stateprovince:"michigan" genus:eurycea" ; Times: 1
+	Query: "county:"Ward" stateprovince:"Texas" genus:Sistrurus year <= 2014" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 7
+	Query: "223631" ; Times: 1
+	Query: ""byron c marshall"" ; Times: 1
+	Query: ""b marshall"" ; Times: 1
+	Query: "Plectrohyla guatemalensis institutioncode:UMMZ" ; Times: 1
+	Query: "230400" ; Times: 1
+	Query: ""DEIROCHELYS RETICULARIA" (Alabama)" ; Times: 1
+	Query: "sphenodon (skeleton)" ; Times: 1
+	Query: "county:"Franklin" stateprovince:"Kansas" class:Reptilia institutioncode:UMMZ year >= 1922 year <= 1922" ; Times: 2
+	Query: "specificepithet:pulveriventris genus:Rhadinaea" ; Times: 2
+	Query: "233102" ; Times: 1
+	Query: "phyllobates vittatus" ; Times: 4
+	Query: "plectrohyla hartwegi institutioncode:UMMZ" ; Times: 1
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "Plectrohyla institutioncode:UMMZ" ; Times: 2
+	Query: "stateprovince:"Michigan" genus:Coluber" ; Times: 1
+	Query: "specificepithet:welleri genus:plethodon year >= 1930 year <= 1931" ; Times: 1
+	Query: "class:Reptilia institutioncode:UMMZ year >= 1922" ; Times: 1
+	Query: ""Diadophis punctatus" (Alabama)" ; Times: 1
+	Query: "plectrohyla hartwegi" ; Times: 1
+	Query: "catalognumber:62427 institutioncode:ummz" ; Times: 1
+	Query: "Gallotia (Skeleton)" ; Times: 2
+	Query: "Ameiva (Skeleton)" ; Times: 1
+	Query: "country:"Mexico" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 164 download events in this period)
+Total number of records downloaded: 2972 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2937
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-02 ; Times: 1
+	Date: 2014-09-07 ; Times: 1
+	Date: 2014-09-09 ; Times: 2
+	Date: 2014-09-12 ; Times: 1
+	Date: 2014-09-15 ; Times: 2
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-18 ; Times: 2
+	Date: 2014-09-19 ; Times: 1
+	Date: 2014-09-20 ; Times: 3
+	Date: 2014-09-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Texas" specificepithet:houstonensis genus:Bufo year >= 1888 year <= 2014" ; Times: 1
+	Query: "Rhinoclemmys" ; Times: 1
+	Query: "Ensatina" ; Times: 1
+	Query: "Phrynosoma" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:reptilia year >= 1900 year <= 1960" ; Times: 1
+	Query: "specificepithet:platycephalus genus:hydromantes" ; Times: 1
+	Query: "Gopherus agassizii" ; Times: 1
+	Query: "testudines (bone OR skeleton OR shell OR skull)" ; Times: 1
+	Query: "Pyxicephalus" ; Times: 1
+	Query: "county:"Travis" stateprovince:"Texas" class:amphibia year >= 1900 year <= 1960" ; Times: 1
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "stateprovince:"Texas" specificepithet:turcicus genus:Hemidactylus year >= 1888 year <= 2014" ; Times: 1
+	Query: "Andrias" ; Times: 3
+	Query: "crotalus in mexico" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1754
+Total number of records retrieved from searches: 16934
+Number of download events that retrieved data from the resource: 274
+Total number of records downloaded: 298557
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1754
+Total number of records retrieved from searches: 16934
+Number of download events that retrieved data from the resource: 274
+Total number of records downloaded: 298557
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
