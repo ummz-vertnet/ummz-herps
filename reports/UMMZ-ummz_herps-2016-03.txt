@@ -1,0 +1,197 @@
+Report for Institution Code UMMZ, Resource ummz_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 1069
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 64
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 33
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 5
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 14
+	Date: 2016-03-11 ; Times: 23
+	Date: 2016-03-10 ; Times: 7
+	Date: 2016-03-01 ; Times: 11
+	Date: 2016-03-08 ; Times: 8
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 9
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-03 ; Times: 31
+	Date: 2016-03-13 ; Times: 5
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:77652 institutioncode:UMMZ" ; Times: 1
+	Query: "11054" ; Times: 2
+	Query: "Plectrohyla quecchi" ; Times: 1
+	Query: "Tylototriton verrucosus" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "catalognumber:60947 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34;" ; Times: 13
+	Query: "Plectrohyla pokomchi" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Rhinoclemmys stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "clonophis marion indiana" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "29992" ; Times: 2
+	Query: "Ficimia publia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "clark salyer" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 2
+	Query: "Paramesotriton guangxiensis" ; Times: 3
+	Query: "UMMZ-70011" ; Times: 1
+	Query: "237 stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:velasci" ; Times: 1
+	Query: "Rhampholeon spectrum" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "hyla plicata stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "ambystoma tigrinum stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bufo bankorensis" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "gastrotheca cornuta panama" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Crocodylus moreletii stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "UMMZ-93026" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 1
+	Query: "Geophis immaculatus" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "Celestus rozellae" ; Times: 2
+	Query: "specificepithet:acutus genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "UMMZ-96001" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "catalognumber:60907 institutioncode:UMMZ" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "Plectrohyla glandulosa" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "Paramesotriton caudopunctatus" ; Times: 4
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Rana amurensis" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "specificepithet:laterale stateprovince:&#34;Indiana&#34;" ; Times: 1
+	Query: "Coniophanes piceivittis Nicaragua" ; Times: 1
+	Query: "Rhadinaea forbesi stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Tzabcan" ; Times: 2
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Leptobrachium liui" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "Anolis aequatorialis 1" ; Times: 1
+	Query: "specificepithet:Gemonensis class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Plectrohyla matudai Chiapas" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 1
+	Query: "Oreolalax schmidti" ; Times: 1
+	Query: "telmatobius jelskii" ; Times: 2
+	Query: "limnodytes" ; Times: 1
+	Query: "nerodia marion indiana" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "genus:Dendrobates stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 2
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "Cynops cyanurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 230 download events in this period)
+Total number of records downloaded: 15944
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 49
+	Country: Colombia ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-12 ; Times: 4
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 13
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-07 ; Times: 1
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 1
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 33
+	Query: "Bothrops asper" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bufo surdus" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "Ptychohyla erythromma" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
