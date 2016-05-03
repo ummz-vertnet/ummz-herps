@@ -1,0 +1,638 @@
+Report for Institution Code UMMZ, Resource ummz_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 740
+Number of records retrieved in searches: 5681
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Canada ; Times: 12
+	Country: Italy ; Times: 1
+	Country: Czech Republic ; Times: 3
+	Country: Unknown ; Times: 19
+	Country: Argentina ; Times: 52
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Thailand ; Times: 12
+	Country: Spain ; Times: 5
+	Country: Denmark ; Times: 2
+	Country: United States ; Times: 491
+	Country: Sweden ; Times: 3
+	Country: Vietnam ; Times: 2
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 40
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: South Africa ; Times: 5
+	Country: United Kingdom ; Times: 8
+	Country: Colombia ; Times: 7
+	Country: Kenya ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 13
+	Date: 2016-04-28 ; Times: 24
+	Date: 2016-04-07 ; Times: 64
+	Date: 2016-04-06 ; Times: 50
+	Date: 2016-04-05 ; Times: 58
+	Date: 2016-04-04 ; Times: 25
+	Date: 2016-04-21 ; Times: 29
+	Date: 2016-04-20 ; Times: 29
+	Date: 2016-04-09 ; Times: 40
+	Date: 2016-04-22 ; Times: 60
+	Date: 2016-04-25 ; Times: 16
+	Date: 2016-04-24 ; Times: 13
+	Date: 2016-04-27 ; Times: 17
+	Date: 2016-04-26 ; Times: 16
+	Date: 2016-04-08 ; Times: 38
+	Date: 2016-04-18 ; Times: 12
+	Date: 2016-04-19 ; Times: 31
+	Date: 2016-04-14 ; Times: 14
+	Date: 2016-04-15 ; Times: 15
+	Date: 2016-04-16 ; Times: 9
+	Date: 2016-04-17 ; Times: 18
+	Date: 2016-04-10 ; Times: 19
+	Date: 2016-04-11 ; Times: 35
+	Date: 2016-04-12 ; Times: 28
+	Date: 2016-04-13 ; Times: 53
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:165807 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "anolis Veraguas Panama" ; Times: 1
+	Query: "catalognumber:177582 institutioncode:UMMZ" ; Times: 1
+	Query: "Elaphe dione" ; Times: 2
+	Query: "catalognumber:169745 institutioncode:UMMZ" ; Times: 3
+	Query: "Crotalus lepidus chihuahua" ; Times: 1
+	Query: "MCZ 54529" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 2
+	Query: "coluber nebraska" ; Times: 1
+	Query: "lacerta country:&#34;ukraine&#34;" ; Times: 1
+	Query: "catalognumber:177621 institutioncode:UMMZ" ; Times: 1
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Oxybelis arizona" ; Times: 1
+	Query: "Tropidophiidae and cuba" ; Times: 1
+	Query: "Pseudacris brachyphona Virginia" ; Times: 1
+	Query: "Asymblepharus alaicus" ; Times: 1
+	Query: "UMMZ 171421" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Thamnophis sumichrasti" ; Times: 2
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "class:Reptilia county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:archeyi" ; Times: 17
+	Query: "Callisaurus draconoides Sinaloa" ; Times: 1
+	Query: "specificepithet:ruschenbergerii genus:Corallus country:&#34;Panama&#34;" ; Times: 1
+	Query: "55830" ; Times: 1
+	Query: "lampropeltis triangulum celaenops" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "Scutiger mammatus" ; Times: 1
+	Query: "dinodon rufozonatum" ; Times: 2
+	Query: "catalognumber:176017 institutioncode:UMMZ" ; Times: 2
+	Query: "Thamnophis sirtalis stateprovince:&#34;South Carolina&#34;" ; Times: 6
+	Query: "stateprovince:&#34;Utah&#34; (triangulum)" ; Times: 1
+	Query: "phrynosoma cornutum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pipa myersi" ; Times: 2
+	Query: "genus:Heterodon stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "catalognumber:177619 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 3
+	Query: "bothriechis aurifer" ; Times: 8
+	Query: "dendrophidion apharocybe country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Bothriechis bicolor" ; Times: 2
+	Query: "Phrynosoma solare Sinaloa" ; Times: 3
+	Query: "county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "genus:calliophis (skeleton)" ; Times: 1
+	Query: "lampropeltis triangulum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "specificepithet:braminus genus:Ramphotyphlops family:Typhlopidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:thelotornis (skeleton)" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "catalognumber:178430 institutioncode:UMMZ" ; Times: 2
+	Query: "reptilia skeletal remains" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 4
+	Query: "triturus carnifex" ; Times: 1
+	Query: "phyllopezus pollicaris" ; Times: 2
+	Query: "Pseudotriton montanus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "geoemyda spengleri" ; Times: 2
+	Query: "ameiva corax (Anguilla)" ; Times: 1
+	Query: "170933" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "catalognumber:177583 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Reptilia county:&#34;Randolph&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Herrera&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "rana cascadae 1985" ; Times: 1
+	Query: "Claudius angustatus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "UMMZ 125495" ; Times: 1
+	Query: "kinixys homeana" ; Times: 3
+	Query: "Coleonyx switaki" ; Times: 4
+	Query: "adelophis" ; Times: 1
+	Query: "	Tropidurus cocorobensis	 1" ; Times: 1
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "catalognumber:167283 institutioncode:UMMZ" ; Times: 1
+	Query: "Sistrurus miliarius oktibbeha Mississippi" ; Times: 1
+	Query: "catalognumber:52744 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:167394 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:177584 institutioncode:UMMZ" ; Times: 1
+	Query: "Aneides aeneus (Alabama OR AL OR alabama OR Al OR al)" ; Times: 1
+	Query: "Scaphiopus holbrookii stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 9
+	Query: "catalognumber:165809 institutioncode:UMMZ" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 25
+	Query: "91380" ; Times: 1
+	Query: "Lytorhynchus ridgewayi" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "catalognumber:177620 institutioncode:UMMZ" ; Times: 1
+	Query: "Crotalus tzabcan" ; Times: 3
+	Query: "catalognumber:177570 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Amphibia county:&#34;Harrison&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "spea washoe county" ; Times: 1
+	Query: "specificepithet:taeniata genus:Abronia stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "pelamis platurus costa rica" ; Times: 1
+	Query: "Crotalus pricei chihuahua" ; Times: 2
+	Query: "catalognumber:171475 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:165278 institutioncode:UMMZ" ; Times: 1
+	Query: "mabuya megalura" ; Times: 1
+	Query: "Stegonotus cucullatus" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; (charina)" ; Times: 1
+	Query: "coluber blair" ; Times: 1
+	Query: "222388" ; Times: 1
+	Query: "plectrohyla hartwegi" ; Times: 1
+	Query: "genus:Mantella specificepithet:aurantiaca" ; Times: 2
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "intermontana washoe county" ; Times: 1
+	Query: "specificepithet:triangulum stateprovince:&#34;Maryland&#34;" ; Times: 5
+	Query: "catalognumber:177622 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "UMMZ 165729" ; Times: 2
+	Query: "57321" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Wyoming&#34;" ; Times: 11
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "genus:Barbourula s" ; Times: 1
+	Query: "sea lemon" ; Times: 1
+	Query: "Pipa parva" ; Times: 1
+	Query: "catalognumber:177616 institutioncode:UMMZ" ; Times: 1
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 4
+	Query: "crotalus horridus maryland" ; Times: 1
+	Query: "Adelophis foxi" ; Times: 1
+	Query: "218427" ; Times: 1
+	Query: "206 ONTARIO 1" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 2
+	Query: "Tantilla pamlica" ; Times: 1
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "catalognumber:167281 institutioncode:UMMZ" ; Times: 1
+	Query: "Pseudoeurycea Tamaulipas institutioncode:UMMZ" ; Times: 1
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "Tantilla yaquia Arizona" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "opheodrys blair" ; Times: 3
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Leptotyphlops stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Helminthophis frontalis" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "constrictor nebraska" ; Times: 1
+	Query: "catalognumber:165208 institutioncode:UMMZ" ; Times: 7
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "bothriechis lateralis" ; Times: 2
+	Query: "Thamnophis melanogaster chihuahua" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "Elapsoidea loveridgei" ; Times: 1
+	Query: "Eumeces taeniolatus" ; Times: 4
+	Query: "bothriechis marchi" ; Times: 7
+	Query: "108467" ; Times: 1
+	Query: "Crotalus viridis Navajo Arizona" ; Times: 2
+	Query: "imantodes lentiferus" ; Times: 2
+	Query: "genus:Eurycea specificepithet:aquatica" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Virginia&#34; country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "catalognumber:165220 institutioncode:UMMZ" ; Times: 2
+	Query: "161142" ; Times: 1
+	Query: "184396" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Chrysemys stateprovince:&#34;louisiana&#34;" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Skiltonianus Nevada county" ; Times: 2
+	Query: "catalognumber:186930" ; Times: 1
+	Query: "Vipera ammodytes 1" ; Times: 1
+	Query: "catalognumber:167287 institutioncode:UMMZ" ; Times: 2
+	Query: "135680" ; Times: 1
+	Query: "pituophis lineaticollis" ; Times: 2
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 6
+	Query: "blue-spotted salamander" ; Times: 2
+	Query: "catalognumber:165270 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Amphibia county:&#34;Morgan&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Jersey&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "192626" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "158056" ; Times: 1
+	Query: "Gerrhosaurus major" ; Times: 5
+	Query: "catalognumber:177611 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Chamaeleo senegalensis" ; Times: 1
+	Query: "order:Caudata class:Amphibia county:&#34;Powell&#34; stateprovince:&#34;Kentucky&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "phrynosoma cornutum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "Kinixys" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Cyrtodactylus condorensis" ; Times: 2
+	Query: "odontophrynus occidentalis" ; Times: 1
+	Query: "zfmk" ; Times: 2
+	Query: "stateprovince:&#34;Boyaca&#34; country:&#34;Colombia&#34; (Maria)" ; Times: 1
+	Query: "leiopelma" ; Times: 1
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "catalognumber:177626 institutioncode:UMMZ" ; Times: 1
+	Query: "bothriechis schlegelii country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "M. Daily" ; Times: 1
+	Query: "Nyctibatrachus" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "genus:Barbourula" ; Times: 2
+	Query: "stegonotus ummz" ; Times: 2
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "specificepithet:palleucus" ; Times: 1
+	Query: "catalognumber:177601 institutioncode:UMMZ" ; Times: 1
+	Query: "Cryptobranchus alleganiensis stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sceloporus undulatus ALABAMA" ; Times: 4
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "catalognumber:172670 institutioncode:UMMZ" ; Times: 1
+	Query: "Pituophis melanoleucus Sinaloa" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Pseudoeurycea robertsi" ; Times: 2
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "coronella austriaca" ; Times: 3
+	Query: "crotaphytus reticulatus" ; Times: 9
+	Query: "Eublepharis" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Oklahoma&#34;" ; Times: 3
+	Query: "Crotalus willardi chihuahua" ; Times: 1
+	Query: "Eremias multiocellata" ; Times: 1
+	Query: "genus:leptotyphlops stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "coluber constrictor blair" ; Times: 1
+	Query: "catalognumber:177615 institutioncode:UMMZ" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "catalognumber:165253 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 3
+	Query: "genus:Sistrurus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "165880" ; Times: 1
+	Query: "order:squamata county:&#34;bee&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "Gastrophryne carolinensis stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "specificepithet:nasicus genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "catalognumber:177581 institutioncode:UMMZ" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "class:Amphibia county:&#34;Perry&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "catalognumber:178342 institutioncode:UMMZ" ; Times: 2
+	Query: "lacertidae country:&#34;hungary&#34;" ; Times: 1
+	Query: "	Anotosaura vanzolinia	 1" ; Times: 1
+	Query: "catalognumber:165810 institutioncode:UMMZ" ; Times: 1
+	Query: "cryptobranchus bishopi" ; Times: 2
+	Query: "specificepithet:palleucus year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:186903" ; Times: 1
+	Query: "specificepithet:intermedius genus:crotalus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "catalognumber:178648 institutioncode:UMMZ" ; Times: 2
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "gerson" ; Times: 1
+	Query: "bothriechis nigroviridis" ; Times: 1
+	Query: "Ablepharus bivittatus" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;bexar&#34;" ; Times: 3
+	Query: "catalognumber:176178 institutioncode:UMMZ" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "sceloporus blair" ; Times: 2
+	Query: "catalognumber:84627 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:176018 institutioncode:UMMZ" ; Times: 2
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "graptemys caglei" ; Times: 2
+	Query: "catalognumber:96677 institutioncode:UMMZ" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:216530 institutioncode:UMMZ" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 2
+	Query: "genus:hemachatus (skeleton)" ; Times: 1
+	Query: "hydrophis coggeri" ; Times: 1
+	Query: "geckoides" ; Times: 4
+	Query: "class:Reptilia county:&#34;Effingham&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Bothrops country:&#34;Colombia&#34;" ; Times: 6
+	Query: "Eurycea junaluska" ; Times: 1
+	Query: "Gymnodactylus geckoides" ; Times: 1
+	Query: "Varanus griseus" ; Times: 4
+	Query: "Alytes cisternasii" ; Times: 2
+	Query: "necturus pennsylvania" ; Times: 1
+	Query: "catalognumber:165730 institutioncode:UMMZ" ; Times: 2
+	Query: "family:leptotyphlopidae stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "tantilla pamlica" ; Times: 2
+	Query: "Dickenson county virginia" ; Times: 1
+	Query: "catalognumber:177599 institutioncode:UMMZ" ; Times: 2
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "hyla avivoca alabama" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Seminatrix pygaea cyclas" ; Times: 1
+	Query: "Sistrurus miliarius oktibbeha mississippi" ; Times: 2
+	Query: "bothriechis bicolor" ; Times: 1
+	Query: "kinosternon spooneri" ; Times: 1
+	Query: "Micruroides euryxanthus Sinaloa" ; Times: 1
+	Query: "eryx jaculus" ; Times: 2
+	Query: "	Liophis viridis	 1" ; Times: 1
+	Query: "genus:Clonophis class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Chelydra serpentina Ontario" ; Times: 10
+	Query: "boeleni" ; Times: 2
+	Query: "stilosoma" ; Times: 3
+	Query: "Gastrophryne olivacea Sinaloa" ; Times: 1
+	Query: "361 class:Amphibia county:&#34;Dixie&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Thamnophis mendax" ; Times: 1
+	Query: "genus:Abronia taeniata stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "Pipa carvalhoi" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "catalognumber:127135 institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "UMMZ 20587" ; Times: 1
+	Query: "class:Reptilia county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:exiliboa" ; Times: 1
+	Query: "specificepithet:narduccii genus:Leptomicrurus stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "catalognumber:234850 institutioncode:UMMZ" ; Times: 1
+	Query: "sceloporus undulatus blair" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 5
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "Thamnophis eques Santa Cruz county" ; Times: 1
+	Query: "eurycea spelaeus" ; Times: 8
+	Query: "catalognumber:165244 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz 238459" ; Times: 2
+	Query: "sceloporus undulatus stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "specificepithet:anthracinus class:reptilia stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "catalognumber:177580 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:177614 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:122826 institutioncode:UMMZ" ; Times: 3
+	Query: "catalognumber:165245 institutioncode:UMMZ" ; Times: 4
+	Query: "catalognumber:173753 institutioncode:UMMZ" ; Times: 2
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Chiriqui&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "panaspis breviceps" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "chioglossa" ; Times: 1
+	Query: "	Lygodactylus klugei	 1" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "catalognumber:165254 institutioncode:UMMZ" ; Times: 1
+	Query: "Meizodon semiornatus" ; Times: 1
+	Query: "goudoti" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "38758" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "UMMZ Ficimia streckeri" ; Times: 3
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Leptotyphlops humilis sinaloa" ; Times: 1
+	Query: "catalognumber:106959 institutioncode:UMMZ" ; Times: 1
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 10
+	Query: "38882" ; Times: 1
+	Query: "Holbrookia lacerata" ; Times: 1
+	Query: "catalognumber:178647 institutioncode:UMMZ" ; Times: 2
+	Query: "Crotalus pricei Santa Cruz county" ; Times: 1
+	Query: "Nyctibatrachus humayuni" ; Times: 2
+	Query: "UMMZ 122700" ; Times: 4
+	Query: "crotalus mitchelli stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "58425" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "class:Amphibia county:&#34;Tuscarawas&#34; stateprovince:&#34;Ohio&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:167383 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:177613 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Graptemys stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "catalognumber:175993 institutioncode:UMMZ" ; Times: 1
+	Query: "viperidae belize" ; Times: 1
+	Query: "elaphe minnesota" ; Times: 1
+	Query: "Mabuya septemtaeniata" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "UMMZ 166733" ; Times: 2
+	Query: "specificepithet:palleucus year &gt;= 1960" ; Times: 1
+	Query: "	Leptotyphlops brasiliensis	 1" ; Times: 1
+	Query: "catalognumber:175526 institutioncode:UMMZ" ; Times: 2
+	Query: "Scincidae skeletal" ; Times: 3
+	Query: "Eumeces gilberti Nevada county" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "pyxis planicauda" ; Times: 1
+	Query: "catalognumber:170030 institutioncode:UMMZ" ; Times: 3
+	Query: "UMMZ 113413" ; Times: 1
+	Query: "Lycodon striatus" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Colon&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "abronia mixteca" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "pituophis county:&#34;Mobile&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Madison&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:beebei order:anura class:amphibia" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "Umfs 5640" ; Times: 1
+	Query: "UMMZ 171414" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 3
+	Query: "175440" ; Times: 1
+	Query: "Amphiglossus" ; Times: 2
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "156622" ; Times: 1
+	Query: "179836" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34; recordedby:WM CLARK MCINTYRE institutioncode:UMMZ" ; Times: 1
+	Query: "Crotalus viridis Apache Arizona" ; Times: 4
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "class:Reptilia county:&#34;Perry&#34; stateprovince:&#34;Mississippi&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "order:Squamata county:&#34;Monroe&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "class:Reptilia county:&#34;Mason&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Phyllodytes" ; Times: 1
+	Query: "catalognumber:165732 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:177617 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "specificepithet:limbatus genus:Micrurus" ; Times: 1
+	Query: "clonophis" ; Times: 3
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Elaphe taeniura" ; Times: 6
+	Query: "genus:Abronia stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "catalognumber:177627 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:177602 institutioncode:UMMZ" ; Times: 1
+	Query: "lacerta saxicola" ; Times: 3
+	Query: "catalognumber:165808 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:177585 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Reptilia county:&#34;Calhoun&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Uta county:&#34;madera&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:Intermedius genus:Crotalus stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "UMMZ 165718" ; Times: 2
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 2
+	Query: "Masticophis flagellum Sinaloa" ; Times: 2
+	Query: "Lytorhynchus maynardi" ; Times: 3
+	Query: "type:specimen genus:Oligodon country:&#34;China&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;bond&#34; stateprovince:&#34;Illinois&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "eublepharis" ; Times: 3
+	Query: "spea intermontana pershing county" ; Times: 1
+	Query: "Anura type:specimen (skeleton kenya)" ; Times: 1
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "UMMZ 167342" ; Times: 1
+	Query: "103433" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 1312 download events in this period)
+Total number of records downloaded: 76430
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 43
+	Country: Australia ; Times: 4
+	Country: Mexico ; Times: 31
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: United Arab Emirates ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 2
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 7
+	Date: 2016-04-04 ; Times: 4
+	Date: 2016-04-21 ; Times: 8
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 8
+	Date: 2016-04-22 ; Times: 2
+	Date: 2016-04-18 ; Times: 3
+	Date: 2016-04-19 ; Times: 6
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-16 ; Times: 3
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-11 ; Times: 5
+	Date: 2016-04-12 ; Times: 2
+	Date: 2016-04-13 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "nototriton" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 2
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "batrachoseps wrighti" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 5
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Podarcis hispanica" ; Times: 1
+	Query: "Ophisaurus mimicus" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "catalognumber:165208 institutioncode:UMMZ" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 1
+	Query: "thorius" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "hoplocephalus bitorquatus" ; Times: 3
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "genus:Chrysemys stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ptychadena uzungwensis" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "Crotalus tzabcan" ; Times: 3
+	Query: "ptychadena porosissima" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "farancia (North Carolina)" ; Times: 1
+	Query: "specificepithet:taeniata genus:Abronia stateprovince:&#34;Puebla&#34;" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "Lacerta lepida" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Pseudoeurycea robertsi" ; Times: 2
+
+
+End of report.
