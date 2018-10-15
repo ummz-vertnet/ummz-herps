@@ -1,0 +1,190 @@
+Report for Institution Code UMMZ, Resource ummz_herps
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 1960
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 101
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 8
+	Country: Mexico ; Times: 26
+	Country: Czechia ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Dominican Republic ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 27
+	Date: 2017-11-29 ; Times: 42
+	Date: 2017-11-26 ; Times: 30
+	Date: 2017-11-27 ; Times: 26
+	Date: 2017-11-24 ; Times: 2
+	Date: 2017-11-25 ; Times: 9
+	Date: 2017-11-30 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "Anolis chloris ECUADOR" ; Times: 1
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (ontario ) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "family:Chamaeleonidae bonsi" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;Humboldt&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "Sistrurus catenatus catenatus vntype:specimen specificepithet:catenatus genus:sistrurus AND (kansas) institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Masticophis county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:Chamaeleonidae valerieae" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Cnemidophorus sonorae United States Arizona Pima County" ; Times: 4
+	Query: "micrurus browni" ; Times: 1
+	Query: "Speleomantes" ; Times: 1
+	Query: "heterodon jersey" ; Times: 2
+	Query: "Pseudotriton diasticus" ; Times: 2
+	Query: "Leposoma scincoides" ; Times: 1
+	Query: "specificepithet:larselli genus:Plethodon" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus institutioncode:UMMZ" ; Times: 5
+	Query: "Ambystoma jeffersonianum Kentucky" ; Times: 1
+	Query: "kinosternon guatemala" ; Times: 2
+	Query: "pituophis stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "dermophis oaxacae" ; Times: 1
+	Query: "anolis bartschi" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus (canada) institutioncode:UMMZ" ; Times: 1
+	Query: "Sistrurus miliarius barbouri stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus (michigan) institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Necturus maculosus Kentucky" ; Times: 2
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "Anolis bitectus ECUADOR" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "family:Chamaeleonidae antakarana" ; Times: 1
+	Query: "M130" ; Times: 1
+	Query: "recordnumber:32040" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 2
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Cnemidophorus sonorae Pima County Arizona" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma county:&#34;smith&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Pseudotriton jersey" ; Times: 1
+	Query: "Synapturanus mirandaribeiroi" ; Times: 1
+	Query: "genus:crotalus county:&#34;pender&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus recordnumber:5" ; Times: 1
+	Query: "Pseudotriton montanus Kentucky" ; Times: 1
+	Query: "Ambystoma bishopi" ; Times: 1
+	Query: "family:Chamaeleonidae ambreensis" ; Times: 1
+	Query: "anolis quercorum" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 1
+	Query: "genus:Crotalus recordnumber:72" ; Times: 1
+	Query: "Cyclocorus" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 5
+	Query: "neusticurus rudis" ; Times: 2
+	Query: "family:Chamaeleonidae exarmata" ; Times: 1
+	Query: "genus:Ambystoma tigrinum county:&#34;scotland&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "ambystoma opacum jersey" ; Times: 2
+	Query: "pseudoeurycea nigromaculata" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "Cnemidophorus sonorae Pima" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Panama&#34;" ; Times: 2
+	Query: "ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "family:Chamaeleonidae lineata" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "vntype:specimen genus:Lampropeltis year &gt;= 1970 year &lt;= 2017 lengthtype:total length haslength:1" ; Times: 2
+	Query: "Chiropterotriton magnipes institutioncode:UMMZ" ; Times: 1
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:boylii genus:rana county:&#34;mendocino&#34;" ; Times: 1
+	Query: "Hemitheconyx" ; Times: 1
+	Query: "family:Chamaeleonidae betschi" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Gallotia galloti" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 1
+	Query: "196376" ; Times: 1
+	Query: "Anolis aequatorialis ECUADOR" ; Times: 1
+	Query: "Pseudotriton montanus floridanus" ; Times: 1
+	Query: "pamlica stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Sistrurus catenatus catenatus vntype:specimen specificepithet:catenatus genus:sistrurus institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Eleutherodactylus ranoides" ; Times: 3
+	Query: "masticophis taeniatus mexico" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus (ohio) institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Micrurus county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "genus:sistrurus county:&#34;brunswick&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:websteri genus:Plethodon stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "sphaerodactylus nassau" ; Times: 3
+	Query: "genus:Leptopelis specificepithet:natalensis" ; Times: 1
+	Query: "Pseudotriton diasticus Kentucky" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Adelphicos stateprovince:&#34;Veracruz&#34;" ; Times: 6
+	Query: "genus:lampropeltis triangulum county:&#34;wake&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Leptopelis bufonides" ; Times: 4
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "sphaerodactylus nigropunctatus nassau" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Rhinoclemmys rubida oaxaca" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+	Query: "specificepithet:QUADRIVIRGATUS genus:ADELPHICOS stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "family:Chamaeleonidae bekolosy" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Eurycea aquatica" ; Times: 5
+	Query: "Sistrurus catenatus catenatus vntype:specimen specificepithet:catenatus genus:sistrurus (ontario) institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ambreensis" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Horry&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1101 download events in this period)
+Total number of records downloaded: 2478
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: Brazil ; Times: 2
+	Country: Russia ; Times: 7
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 4
+	Date: 2017-11-29 ; Times: 2
+	Date: 2017-11-26 ; Times: 3
+	Date: 2017-11-27 ; Times: 9
+	Date: 2017-11-25 ; Times: 6
+	Date: 2017-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:quadridigitata genus:Eurycea stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "monopeltis" ; Times: 1
+	Query: "Pakistan Amphibia" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "Iran Amphibia" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "class:reptilia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "class:amphibia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "Leposoma scincoides" ; Times: 1
+	Query: "anolis quercorum" ; Times: 1
+	Query: "elgaria paucicarinata" ; Times: 3
+	Query: "Bufo danatensis" ; Times: 1
+	Query: "Chiasmocleis shudikarensis" ; Times: 1
+	Query: "Kazakhstan Amphibia" ; Times: 1
+	Query: "Turkmenistan Amphibia" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+
+
+End of report.
